@@ -1,0 +1,5 @@
+altair==6.2.2
+lightgbm==4.7.0
+numpy==2.4.6
+pandas==3.0.5
+streamlit==1.60.0
