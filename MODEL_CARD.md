@@ -60,4 +60,4 @@ Un usage opérationnel demanderait un nouveau cadrage métier, une base juridiqu
 
 ## Statut
 
-Démonstrateur de portfolio dont le code source est publié dans un dépôt dédié. Exécution locale uniquement, sans application publique hébergée. Dépôts historiques préservés.
+Démonstrateur de portfolio dont le code source est publié dans un dépôt dédié et l'interface hébergée sur Streamlit Community Cloud. Dépôts historiques préservés.

@@ -90,10 +90,12 @@ Voir [MODEL_CARD.md](MODEL_CARD.md) pour la provenance, les vérifications et le
 - La reproduction des trois prédictions ne remplace pas une nouvelle validation statistique complète.
 - Les profils sont fixes et ne permettent aucune saisie de dossier réel.
 - Les montants conservent les unités du jeu de données source et ne sont pas présentés comme des euros.
-- Aucun déploiement public n'a été réalisé.
+- Le déploiement public reste une démonstration éducative et ne doit pas être utilisé pour une décision réelle.
 
 ## Statut de publication
 
-Le code source de cette version modernisée est publié dans un dépôt dédié. Le démonstrateur reste prévu pour une exécution locale : aucune application publique hébergée n'est proposée à ce stade.
+Le code source de cette version modernisée est publié dans un dépôt dédié. L'application est également accessible sur Streamlit Community Cloud :
+
+<https://demonstrateur-scoring-credit.streamlit.app/>
 
 Les dépôts GitHub historiques sont inchangés.
